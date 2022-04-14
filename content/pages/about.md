@@ -2,20 +2,20 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "Cristobal Barrera"
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy ingeniero mecánico pero ultimamente me a llamdo la atención aprender a programar 
+> empece con Java y Python. 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Mi Meta** Lo que me gustaría ahorita es darle un giro a mi carrera y aprender más de 
+diferentes cosas salir un poco de la rutina que tengo, como lo dije empece a acercarme a 
+este mundo de la programación con Java y Python y realmente me gusto y me llamo la atención. 
+Tanto que tome algunos cursos y diplomados de machine learning y desarrollo de videojuegos y pues ahorita
+tuve la oportunidad de entrar a Launch X además creo que mi siguiente paso en esto sería empezar a aprender como 
+hacer cosas de VR y AR.
 
