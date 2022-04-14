@@ -2,7 +2,7 @@
 title: 'About me'
 menu:
   main:
-    name: "Cristobal Barrera"
+    name: "About me"
 ---
 
 ## Who am I
