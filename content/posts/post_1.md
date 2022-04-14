@@ -1,0 +1,20 @@
+---
+title: "Mi ruta de aprendizaje en Launch X"
+date: 2022-04-14
+description: 'Te voy a contar mi travesía en Launch-X de Innovacción Virtual'
+---
+
+Hey! Quiero contarte todo lo que he aprendido en este camino:
+
+- Python
+- Lógica de programación
+- Jupyter Notebooks
+- Command Line
+- Git
+- Github
+- HTML
+- CSS
+- Js
+- Node Js
+
+Gracias por leer
